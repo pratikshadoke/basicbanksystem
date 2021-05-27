@@ -10,5 +10,5 @@ I have created Basic Banking System application using MERN stack
          type="application/x-shockwave-flash"
          wmode="transparent" width="425" height="350" />
 </object>
-[![basicbanksystem](https://img.youtube.com/vi/1LBGdbHfSt8/0.jpg)](https://www.youtube.com/watch?v=1LBGdbHfSt8)
+[!basicbanksystem](https://img.youtube.com/vi/1LBGdbHfSt8/0.jpg)](https://www.youtube.com/watch?v=1LBGdbHfSt8)
 
